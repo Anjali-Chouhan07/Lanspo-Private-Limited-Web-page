@@ -9,7 +9,7 @@ import Hero from "./Hero";
 
 export { default as About } from "./About";
 export { default as ContactUs } from "./ContactUs";
-export { default as Blog } from "./blog"; 
+export { default as Blog } from "./Blog"; 
 export { default as Careers } from "./Careers";
 export { default as Services } from "./Services";
 export { default as Group } from "./Group"; 
